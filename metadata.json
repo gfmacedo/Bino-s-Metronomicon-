@@ -1,0 +1,6 @@
+{
+  "name": "Metronomicon",
+  "description": "BINO's Metronomicon - Advanced loop metronome for musicians with custom subdivisions, beat counts, and count-in practice sequences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

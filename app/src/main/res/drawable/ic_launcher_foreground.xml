@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Metronome Body Pyramid Base in Warm Orange -->
+    <path
+        android:fillColor="#FFA24C"
+        android:pathData="M54,26 L69,76 L39,76 Z" />
+    <path
+        android:fillColor="#FF7A00"
+        android:pathData="M54,26 L69,76 L54,76 Z" />
+    <!-- Metronome Base Plate -->
+    <path
+        android:fillColor="#E65100"
+        android:pathData="M35,76 L73,76 L75,81 L33,81 Z" />
+    <!-- Scale Plate Cutout inside metronome -->
+    <path
+        android:fillColor="#151922"
+        android:pathData="M54,34 L63,73 L45,73 Z" />
+    <!-- Center Guide Bar -->
+    <path
+        android:fillColor="#374151"
+        android:pathData="M53,35 L55,35 L55,73 L53,73 Z" />
+    <!-- Tilted Pendulum Needle (Swinging Arm) -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,72 L64,30 L66,30 L54,72 Z" />
+    <!-- Pendulum Sliding Weight (Bob) -->
+    <path
+        android:fillColor="#FF5252"
+        android:pathData="M58,44 L66,42 L68,49 L60,51 Z" />
+    <path
+        android:fillColor="#FF8A80"
+        android:pathData="M60,45 L64,44 L65,48 L61,49 Z" />
+    <!-- Pivot Bearing Circle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,72m-3,0a3,3 0 1,1 6,0a3,3 0 1,1 -6,0" />
+    <!-- Dynamic Rhythm Pulse Arcs -->
+    <path
+        android:strokeColor="#FF7A00"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M70,36 C77,42 81,51 81,61" />
+    <path
+        android:strokeColor="#40C4FF"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M27,61 C27,51 31,42 38,36" />
+    <!-- Beat Dots -->
+    <path
+        android:fillColor="#40C4FF"
+        android:pathData="M34,31m-2.2,0a2.2,2.2 0 1,1 4.4,0a2.2,2.2 0 1,1 -4.4,0" />
+    <path
+        android:fillColor="#FF7A00"
+        android:pathData="M74,31m-2.2,0a2.2,2.2 0 1,1 4.4,0a2.2,2.2 0 1,1 -4.4,0" />
+</vector>
